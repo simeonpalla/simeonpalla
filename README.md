@@ -2,9 +2,7 @@
 
 Hi, I'm Simeon, Data Analyst
 
-<br>
 Intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, Formula-1_
-<br>
 
 #### Quote
 
@@ -13,7 +11,6 @@ _“Discipline is choosing between what you want now and what you want most.”_
 <br>
 <a href="https://www.https://www.linkedin.com/in/simeon-palla/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg" width="40" height="40"/></a> 
 
-
 ## Languages and Tools:<br/>
 ### Languages and Tools I use:
 * Python
@@ -21,22 +18,14 @@ _“Discipline is choosing between what you want now and what you want most.”_
 * heroku
 * Plotly-Dash
 * Tableau
-<br>
-
 ### Languages and Tools I'm learning:
-
 * HTML
 * CSS
 * Bootstrap
 * Javascrpt
-
-
-<br>
-
 ### Work Experience
 
 #### Data Analyst, The Ballot House UK (India) (August 2021 - Present)
-
 * Building Web-Based visual reporting dashboards  using **'_Plotly-Dash_'** and **'_heroku_'**
 * Performing Poll Analysis
 * Tableau for data visualization
