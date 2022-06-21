@@ -39,15 +39,15 @@ _“Discipline is choosing between what you want now and what you want most.”_
 * Project - Fabrication of _e_-Bike
   * Description
     * Our main interest to take up e bike as our final year project
-is to find better ways of inter-city transportation with less
-harm to the nature and without compromising in comfort.
+      is to find better ways of inter-city transportation with less
+      harm to the nature and without compromising in comfort.
     * We’ve used a BLDC motor which is simpler in terms of
-maintenance and also cost-effective. We have connected
-batteries that are in the production of Lithium-ion
-technology because of its most popular perks high density,
-easily replaceable, lightweight, long life, etc., which also
-requires less maintenance. To regulate the speed of the
-bike we used ESC (Electronic Speed Controller)
+      maintenance and also cost-effective. We have connected
+      batteries that are in the production of Lithium-ion
+      technology because of its most popular perks high density,
+      easily replaceable, lightweight, long life, etc., which also
+      requires less maintenance. To regulate the speed of the
+      bike we used ESC (Electronic Speed Controller)
 
 
 <!---
