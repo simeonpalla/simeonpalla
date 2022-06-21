@@ -9,7 +9,7 @@ Intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering,
 _“Discipline is choosing between what you want now and what you want most.”_ — Abraham Lincoln
 ### How to reach me:
 <br>
-<a href="https://www.https://www.linkedin.com/in/simeon-palla/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg" width="40" height="40"/></a> 
+<a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg" width="40" height="40"/></a> 
 
 ## Languages and Tools:<br/>
 ### Languages and Tools I use:
