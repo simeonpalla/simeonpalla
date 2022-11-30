@@ -64,11 +64,13 @@ _“Discipline is choosing between what you want now and what you want most.”_
 <hr>
 
 <h3 align="center"><i> How to reach me: <i/></h3><br>
-<p align="center">
- <a href="mailto:simeonpalla@gmail.com" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/gmail.svg" width="40" height="40" alt="Email"></a><a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
-  <a href="https://twitter.com/simeon_palla" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/twitter.svg" width="40" height="40" alt="Twitter"></a>
-  <a href="https://github.com/simeonpalla" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/icons8-github.svg" width="40" height="40" alt="GitHub"></a>
-</p>
+<div>
+ <p align="center">
+  <a href="mailto:simeonpalla@gmail.com" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/gmail.svg" width="40" height="40" alt="Email"></a><a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
+   <a href="https://twitter.com/simeon_palla" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/twitter.svg" width="40" height="40" alt="Twitter"></a>
+   <a href="https://github.com/simeonpalla" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/icons8-github.svg" width="40" height="40" alt="GitHub"></a>
+ </p>
+</div>
 
 <!---
 simeonpalla/simeonpalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
