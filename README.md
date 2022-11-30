@@ -59,9 +59,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
       requires less maintenance. To regulate the speed of the
       bike we used ESC (Electronic Speed Controller)
       
-<br>
-<hr>
-<br>
+##
 
 <h3 align="center"><i> How to reach me: </i></h3><br>
 
