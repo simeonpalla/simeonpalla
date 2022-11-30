@@ -27,16 +27,18 @@ _“Discipline is choosing between what you want now and what you want most.”_
 
 #### Data Analyst, Pradical Works (August 2022 - October 2022)
 ##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, Retrospective polling data
-* Designed and built server-scale dashboards for internal teams using Plotly Dash, Panel and Tableau
+* Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'**, **'_Panel_'** and **'_Tableau_'**
 * Performed Geo-spatial analysis by developing user-location maps, census, and socio-economic maps.
-* Scraped data from public sites using Beautiful Soup & Selenium.
+* Scraped data from public sites using **'_Beautiful Soup_'** & **'_Selenium_'**.
 * Built pipelines for table extraction with OCR and sentiment analysis using various machine-learning models.
 * Built reports for the authorities and the client.
 * Associated with the tech team for designing & building of mobile applications for the client.
 
 
 #### Data Analyst, The Ballot House UK (India) (August 2021 - August 2022)
-* Building Web-Based visual reporting dashboards  using **'_Plotly-Dash_'** and **'_heroku_'**
+* Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'** and **'_heroku_'**
+* Collected, digitized, cleansed & deployed statistical segmentation models on retrospective polling data to assess the favourability of constituency/area/polling stations/village
+* Analyzed the reachability of the government schemes of the state to the people from the secondary data source and cross-verified with the field team to provide insights to the client.
 * Performed Poll Analysis
 * Tableau for data visualization
 
