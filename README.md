@@ -6,7 +6,7 @@ I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineer
 
 #### Quote
 
-_“Discipline is choosing between what you want now and what you want most.”_ — Abraham Lincoln
+**_“Discipline is choosing between what you want now and what you want most.”_** — Abraham Lincoln
 
 
 ## Languages and Tools
