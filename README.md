@@ -2,7 +2,8 @@
 
 Hi, I'm Simeon!
 <br>
-_Data Analyst_
+
+I'm a _Data Analyst_ worked in the fields of _Political and Public Policy_
 
 I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, Formula-1_
 
