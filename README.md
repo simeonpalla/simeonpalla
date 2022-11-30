@@ -1,6 +1,6 @@
 ## Simeon Palla
 
-Hi, I'm Simeon, I'm a _Data Analyst_ worked in the fields of _Political Consultancies_ & _Public Policy_ both in **_Government_** and **_Private Organizations_**.
+Hi, I'm Simeon, I'm a _Data Analyst_ worked in the fields of **_Public Policy_** & **_Political Consultancies_** both in **_Government_** & **_Private Organizations_**.
 
 I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, Formula-1_
 
