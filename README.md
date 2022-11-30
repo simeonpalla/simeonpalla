@@ -2,7 +2,6 @@
 
 Hi, I'm Simeon!
 <br>
-
 I'm a _Data Analyst_ worked in the fields of _Political and Public Policy_
 
 I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, Formula-1_
@@ -24,7 +23,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
 * CSS
 * Bootstrap
 * Javascrpt
-### Work Experience
+### Work Experience<br/>
 
 #### Data Analyst, Pradical Works (August 2022 - October 2022)
 ##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, Retrospective polling data
@@ -41,7 +40,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
 * Performed Poll Analysis
 * Tableau for data visualization
 
-### Education
+### Education<br/>
 
 ### Jawaharlal Nehru Technological University, Kakinada
 
@@ -62,6 +61,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
       
 <br>
 <hr>
+<br>
 
 <h3 align="center"><i> How to reach me: </i></h3><br>
 
