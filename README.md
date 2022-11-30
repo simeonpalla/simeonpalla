@@ -32,7 +32,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
 * Scraped data from public sites using **'_Beautiful Soup_'** & **'_Selenium_'**.
 * Built pipelines for table extraction with OCR and sentiment analysis using various machine-learning models.
 * Built reports for the authorities and the client.
-* Associated with the tech team for designing & building of mobile applications for the client.
+* Associated with the tech team for **'_Designing_'** & **'_Building_'** of mobile applications for the client.
 
 
 #### Data Analyst, The Ballot House UK (India) (August 2021 - August 2022)
