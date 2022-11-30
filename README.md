@@ -66,9 +66,9 @@ _“Discipline is choosing between what you want now and what you want most.”_
 <h3 align="center"><i> How to reach me: </i></h3><br>
 
  <p align="center">
-  <a href="mailto:simeonpalla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" width="40" height="35" alt="Email"></a><a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" width="40" height="40" alt="LinkedIn"></a>
-   <a href="https://twitter.com/simeon_palla" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" width="40" height="40" alt="Twitter"></a>
-   <a href="https://github.com/simeonpalla" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" width="40" height="40" alt="GitHub"></a>
+  <a href="mailto:simeonpalla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a><a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+   <a href="https://twitter.com/simeon_palla" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+   <a href="https://github.com/simeonpalla" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
  </p>
 
 
