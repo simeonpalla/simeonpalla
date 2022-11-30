@@ -26,7 +26,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
 ## Work Experience
 
 #### Data Analyst, Pradical Works (August 2022 - October 2022)
-##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, Retrospective polling data
+##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, Retrospective polling data.
 * Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'**, **'_Panel_'** and **'_Tableau_'**
 * Performed Geo-spatial analysis by developing user-location maps, census, and socio-economic maps.
 * Scraped data from public sites using **'_Beautiful Soup_'** & **'_Selenium_'**.
@@ -36,6 +36,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
 
 
 #### Data Analyst, The Ballot House UK (India) (August 2021 - August 2022)
+##### Part of a 5-member analytics team with a job to facilitate the creation of deep insights for the client using: Caste demographics, and Retrospective polling data.
 * Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'** and **'_heroku_'**
 * Collected, digitized, cleansed & deployed statistical segmentation models on retrospective polling data to assess the favourability of constituency/area/polling stations/village
 * Analyzed the reachability of the government schemes of the state to the people from the secondary data source and cross-verified with the field team to provide insights to the client.
