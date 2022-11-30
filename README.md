@@ -11,7 +11,7 @@ I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineer
 _“Discipline is choosing between what you want now and what you want most.”_ — Abraham Lincoln
 
 
-## Languages and Tools:<br/>
+## Languages and Tools
 ### Languages and Tools I use:
 * Python
 * CSS
@@ -23,7 +23,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
 * CSS
 * Bootstrap
 * Javascrpt
-### Work Experience:<br/>
+### Work Experience <hr>
 
 #### Data Analyst, Pradical Works (August 2022 - October 2022)
 ##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, Retrospective polling data
