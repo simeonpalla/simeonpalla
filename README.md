@@ -9,9 +9,7 @@ I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineer
 #### Quote
 
 _“Discipline is choosing between what you want now and what you want most.”_ — Abraham Lincoln
-### How to reach me:
-<br>
-<a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/SaiSiddhardhaKalla/statalogosvg/main/linkedin-icon.svg" width="40" height="40"/></a> 
+
 
 ## Languages and Tools:<br/>
 ### Languages and Tools I use:
@@ -64,7 +62,7 @@ _“Discipline is choosing between what you want now and what you want most.”_
       
 <hr>
 
-<p align="center">You can reach me through..</p><br>
+<h3 align="center"><i> How to reach me: <i/></h3><br>
 <p align="center">
  <a href="mailto:simeonpalla@gmail.com" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/gmail.svg" width="40" height="40" alt="Email"></a><a href="https://www.linkedin.com/in/simeon-palla/" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/linkedin.svg" width="40" height="40" alt="LinkedIn"></a>
   <a href="https://twitter.com/simeon_palla" target="_blank"><img src="https://github.com/simeonpalla/icons/blob/main/twitter.svg" width="40" height="40" alt="Twitter"></a>
