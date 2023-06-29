@@ -1,8 +1,8 @@
 ## Simeon Palla
 
-Hi, I'm Simeon, I'm a _Data Analyst_ worked in the fields of **_Public Policy_** & **_Political Consultancies_** both in **_Government_** & **_Private Organizations_**.
+Hi, I'm Simeon, a _Data Analyst_ Working in the field of **_Data Analytics_**, **_Mobile Application Development**, and **_Web Application Development_**.  **_Public Policy_** & **_Political Consultancies_** in **_Government_**, **_Quasi-Government_**, and **_Private Organizations_**.
 
-I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, Formula-1_
+I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, and Formula-1_
 
 #### Quote
 
@@ -13,20 +13,26 @@ I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineer
 ### Languages and Tools I use:
 * Python
 * CSS
-* heroku
+* Heroku
 * Plotly-Dash
 * Tableau
 ### Languages and Tools I'm learning:
 * HTML
 * CSS
 * Bootstrap
-* Javascrpt
+* Javascript
 ## Work Experience
 
+#### Project Lead - Analytics, Government of Andhra Pradesh (November 2022 - Currently)
+* Managed private entities to improve the process and development of the data.
+* Analyzed the state’s confidential data and submitted reports daily and monthly to the CMO of Andhra Pradesh.
+* Working closely with CMO in developing KPIs, SOP, and information needs.
+
+
 #### Data Analyst, Pradical Works (August 2022 - October 2022)
-##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, Retrospective polling data.
+##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, and Retrospective polling data.
 * Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'**, **'_Panel_'**, **'_Tableau_'** & **'_Google DataStudio_'**.  
-* Performed Geo-spatial analysis by developing user-location maps, census, and socio-economic maps.
+* Performed Geospatial analysis by developing user-location maps, census, and socio-economic maps.
 * Scraped data from public sites using **'_Beautiful Soup_'** & **'_Selenium_'**.
 * Built pipelines for table extraction with OCR and sentiment analysis using various machine-learning models.
 * Built reports for the authorities and the client.
@@ -49,16 +55,16 @@ I'm intrested in _Data Science, Aerodynamics, Space Science, Mechanical Engineer
 
 * Project - Fabrication of _e_-Bike
   * Description
-    * Our main interest to take up e bike as our final year project
+    * Our main interest is to take up e-bike as our final year project
       is to find better ways of inter-city transportation with less
-      harm to the nature and without compromising in comfort.
+      harm to nature and without compromising on comfort.
     * We’ve used a BLDC motor which is simpler in terms of
       maintenance and also cost-effective. We have connected
       batteries that are in the production of Lithium-ion
       technology because of its most popular perks high density,
       easily replaceable, lightweight, long life, etc., which also
       requires less maintenance. To regulate the speed of the
-      bike we used ESC (Electronic Speed Controller)
+      the bike we used ESC (Electronic Speed Controller)
       
 ##
 
