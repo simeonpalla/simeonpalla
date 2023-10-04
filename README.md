@@ -1,6 +1,6 @@
 ## Simeon Palla
 
-Hi, I'm Simeon, a _Data Analyst_ Working in the field of **_Data Analytics_**, **_Mobile Application Development**, and **_Web Application Development_**.  **_Public Policy_** & **_Political Consultancies_** in **_Government_**, **_Quasi-Government_**, and **_Private Organizations_**.
+Hi, I'm Simeon, a _Data Analyst_ Working in **_Data Analytics_**, **_Mobile Application Development**, and **_Web Application Development_**. I have experience working with **_Software Developers_**, **_Public Policy_** & **_Political Consultancies_** in **_Government_**, **_Quasi-Government_**, and **_Private Organizations_**.
 
 I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, and Formula-1_
 
@@ -16,22 +16,29 @@ I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Enginee
 * Heroku
 * Plotly-Dash
 * Tableau
-### Languages and Tools I'm learning:
 * HTML
 * CSS
 * Bootstrap
+* SQL
+### Languages and Tools I'm learning:
+* PySpark
+* Hadoop
+* Docker
+* AWS
 * Javascript
 ## Work Experience
 
 #### Project Lead - Analytics, Government of Andhra Pradesh (November 2022 - Currently)
 * Managed private entities to improve the process and development of the data.
-* Analyzed the state’s confidential data and submitted reports daily and monthly to the CMO of Andhra Pradesh.
-* Working closely with CMO in developing KPIs, SOP, and information needs.
+* Analyzed the state’s confidential data and submitted reports daily & monthly basis to the CMO of Andhra Pradesh.
+* Working closely with the CMO in developing KPIs, SOPs, and information needs.
+* Analysed the state's confidential data of different projects and provided deep insights that improved the performance.
+* Designed and built reporting dashboards using **'_Google LookerStudio_'**
 
 
 #### Data Analyst, Pradical Works (August 2022 - October 2022)
-##### Part of 3 member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, and Retrospective polling data.
-* Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'**, **'_Panel_'**, **'_Tableau_'** & **'_Google DataStudio_'**.  
+##### Part of a 3-member analytics team with a job to facilitate the creation of deep insights for the client using: Caste Demographics, and Retrospective polling data.
+* Designed and built server-scale dashboards for internal teams using **'_Plotly-Dash_'**, **'_Panel_'**, **'_Tableau_'** & **'_Google LookerStudio_'**.  
 * Performed Geospatial analysis by developing user-location maps, census, and socio-economic maps.
 * Scraped data from public sites using **'_Beautiful Soup_'** & **'_Selenium_'**.
 * Built pipelines for table extraction with OCR and sentiment analysis using various machine-learning models.
