@@ -1,6 +1,6 @@
 ## Simeon Palla
 
-Hi, I'm Simeon, a _Data Analyst_ Working in **_Data Analytics_**, **_Mobile Application Development**, and **_Web Application Development_**. I have experience working with **_Software Developers_**, **_Public Policy_** & **_Political Consultancies_** in **_Government_**, **_Quasi-Government_**, and **_Private Organizations_**.
+Hi, I'm Simeon, a _Data Analyst_ Working in **_Data Analytics_**, **_Mobile Application Development_**, and **_Web Application Development_**. I have experience working with **_Software Developers_**, **_Public Policy_** & **_Political Consultancies_** in **_Government_**, **_Quasi-Government_**, and **_Private Organizations_**.
 
 I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Engineering, and Formula-1_
 
