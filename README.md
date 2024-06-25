@@ -20,11 +20,14 @@ I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Enginee
 * CSS
 * Bootstrap
 * SQL
-### Languages and Tools I'm learning:
 * PySpark
 * Hadoop
 * Docker
 * AWS
+### Languages and Tools I'm learning:
+* Kubernetes
+* Kafka
+* Zookeeper
 * Javascript
 ## Work Experience
 
