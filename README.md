@@ -31,11 +31,11 @@ I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Enginee
 * Javascript
 ## Work Experience
 
-#### Project Lead - Analytics, Government of Andhra Pradesh (November 2022 - Currently)
+#### Project Lead - Analytics, Government of Andhra Pradesh (November 2022 - June 2024)
 * Managed private entities to improve the process and development of the data.
-* Analyzed the state’s confidential data and submitted reports daily & monthly basis to the CMO of Andhra Pradesh.
-* Working closely with the CMO in developing KPIs, SOPs, and information needs.
-* Analysed the state's confidential data of different projects and provided deep insights that improved the performance.
+* Analyzed the state’s confidential data and submitted reports on a daily & monthly basis to the CMO of Andhra Pradesh.
+* Working closely with the CMO to develop KPIs, SOPs, and information needs.
+* Analysed the state's confidential data on different projects and provided deep insights that improved performance.
 * Designed and built reporting dashboards using **'_Google LookerStudio_'**
 
 
