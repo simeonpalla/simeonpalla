@@ -30,6 +30,23 @@ I'm interested in _Data Science, Aerodynamics, Space Science, Mechanical Enginee
 * Zookeeper
 * Javascript
 ## Work Experience
+#### Business Analyst - GITAM deemed to be University (July 2025 - Current)
+
+
+#### Data Scientist - Bharti Institute of Public Policy, ISB, Government of Meghalaya (February 2025 - July 2025)
+* Led state-level analytics under the MDRF initiative to support district-level research and governance improvements.
+* Developed performance monitoring frameworks to track implementation progress across government programs.
+* Built dynamic dashboards and structured reports using Power BI and Google Looker Studio for administrative review.
+* Consolidated and analyzed multi-departmental government data to assess program outcomes and implementation gaps.
+* Identified implementation risks and cross-departmental coordination opportunities to strengthen program delivery.
+
+
+#### Data Consultant - Myriad Concepts & Strategies Pvt Ltd (Corporation) (June 2024 - January 2025)
+* Conducted analytics for tourism, investment promotion, and SDG-related projects to support data-driven governance.
+* Designed structured reporting templates linking policy programs with measurable KPIs and outcome indicators.
+* Worked closely with leadership teams to define KPIs, performance metrics, and decision-support frameworks.
+* Analyzed structured and qualitative data to generate actionable insights for senior leadership decision-making.
+
 
 #### Project Lead - Analytics, Government of Andhra Pradesh (November 2022 - June 2024)
 * Managed private entities to improve the process and development of the data.
