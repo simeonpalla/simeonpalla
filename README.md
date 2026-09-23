@@ -84,16 +84,80 @@ Operational data for a President's Office initiative to find and support meritor
 ### 🏛️ Spandana grievance system
 Led monitoring and reporting for a state's public grievance redressal system, with KPIs and SOPs co-designed with senior officials and executive dashboards for bottleneck tracking.
 
-### 🛠️ Things I've built
+## 🛠️ Things I'm proud of
 
-| Project | What it is |
-|---|---|
-| [**GovLensAP**](https://github.com/simeonpalla/GovLensAP) | Smart grievance intelligence platform (TypeScript) |
-| [**expensetracker**](https://github.com/simeonpalla/expensetracker) | Expense tracker web app, [live demo](https://simeonexpencetracker.netlify.app/) |
-| [**mst-abs**](https://github.com/simeonpalla/mst-abs) | Adaptive-Bayesian shrinkage for MST radar data (Jupyter) |
-| [**E2S**](https://github.com/simeonpalla/E2S) | "From the Earth to the Skies" (JavaScript) |
-| [**Car-Price-Prediction**](https://github.com/simeonpalla/Car-Price-Prediction) | Regression model for used-car prices (Jupyter) |
-| [**filmecho**](https://github.com/simeonpalla/filmecho) | Film project in Python |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🚦 [Speed Safety Score](https://github.com/simeonpalla/ai-safer-roads)**<br>
+<sub>ADB AI for Safer Roads · **Top 10**</sub>
+
+Scores every road for whether its speed limit fits the road, then ranks where to intervene first.
+
+`Python` `XGBoost` `Geospatial`
+
+[Live map ↗](https://simeonpalla.github.io/ai-safer-roads/)
+
+</td>
+<td width="33%" valign="top">
+
+**🎬 [FilmECHO](https://github.com/simeonpalla/filmecho)**<br>
+<sub>AI studio war room</sub>
+
+Six studio personas debate a film and deliver a greenlight verdict with confidence and reasoning.
+
+`Gemini` `Multi-agent` `FastAPI`
+
+[Live ↗](https://filmecho-795628182324.asia-southeast1.run.app/)
+
+</td>
+<td width="33%" valign="top">
+
+**🏛️ [GovLens AP](https://github.com/simeonpalla/GovLensAP)**<br>
+<sub>Civic grievance triage</sub>
+
+Citizens send a photo, voice note or text. Gemini 3 classifies it, finds the department and estimates the fix.
+
+`Gemini 3` `TypeScript` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**💸 [Expense Tracker](https://github.com/simeonpalla/expensetracker)**<br>
+<sub>Salary-cycle finance PWA</sub>
+
+On-device bill scanning, a financial health score and ranked actions. Bill photos never leave the phone.
+
+`React` `TypeScript` `Supabase`
+
+[Live ↗](https://simeonexpencetracker.netlify.app/)
+
+</td>
+<td valign="top">
+
+**📡 [mst-abs](https://github.com/simeonpalla/mst-abs)**<br>
+<sub>Radar signal research</sub>
+
+Adaptive-Bayesian shrinkage on MST radar data, pulling clean structure out of noisy atmospheric signals.
+
+`Python` `Bayesian` `Jupyter`
+
+</td>
+<td valign="top">
+
+**🚗 [Car Price Prediction](https://github.com/simeonpalla/Car-Price-Prediction)**<br>
+<sub>Applied ML</sub>
+
+Used-car price models compared across trees, forests, neural nets and polynomial regression with tuned hyperparameters.
+
+`scikit-learn` `Jupyter`
+
+</td>
+</tr>
+</table>
 
 ## Where I've worked
 
