@@ -20,11 +20,11 @@
 
 ## Hi, I'm Simeon 👋
 
-I'm a mechanical engineer who fell for data and never stopped following interesting problems. Over five years I've worked with **state governments, a university, research institutes and political consultancies**. I've built analysis, models, dashboards, field-data systems and apps along the way.
+Mechanical engineer turned data and product builder. Five years across state governments, a university, research institutes and political consultancies.
 
-The common thread isn't one sector or one tool. I like walking into a messy problem I don't yet understand, learning the domain quickly, finding out what the data can and can't say, and shipping something people actually use.
+I learn a domain, work out what the data can and can't say, and ship something people use.
 
-**Right now:** Consultant, Power Sector Analytics at the [Centre for Policy Research](https://cprindia.org).
+**Now:** Consultant, Power Sector Analytics at the [Centre for Policy Research](https://cprindia.org).
 
 ## The range
 
@@ -33,13 +33,13 @@ The common thread isn't one sector or one tool. I like walking into a messy prob
 <td width="50%" valign="top">
 
 ### 🏛️ Governance & public policy
-Grievance redressal for a state government, district governance programmes in Meghalaya, SDG, tourism and investment programmes, election analytics across three cycles. KPIs, SOPs and executive dashboards for senior officials.
+A state grievance system, district programmes in Meghalaya, SDG and tourism work, three election cycles.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Energy & infrastructure
-Analytics and evaluation work in the power sector, turning operational data into evidence for infrastructure decisions. *(Project details are confidential.)*
+Analytics and evaluation in the power sector. *(Details confidential.)*
 
 </td>
 </tr>
@@ -47,13 +47,13 @@ Analytics and evaluation work in the power sector, turning operational data into
 <td valign="top">
 
 ### 🎓 Education & finance
-Ran the data for a 10,000+ candidate scholarship exam across ~150 centres, built revenue and scholarship simulation models, one of which set a university's budget allocations.
+Data for a 10,000+ candidate scholarship exam across ~150 centres, and the models behind a university budget.
 
 </td>
 <td valign="top">
 
 ### 🚦 Road safety & geospatial
-Top 10 in the ADB AI for Safer Roads Challenge 2026: scored 14,711 road segments across Maharashtra and Thailand. QGIS land-use and forest-cover analysis for a state.
+14,711 road segments scored for ADB (Top 10). Land-use and forest-cover mapping in QGIS.
 
 </td>
 </tr>
@@ -61,30 +61,19 @@ Top 10 in the ADB AI for Safer Roads Challenge 2026: scored 14,711 road segments
 <td valign="top">
 
 ### 💻 Software & products
-Web apps, dashboards and data pipelines: Plotly Dash on Heroku, scraping and OCR pipelines, an expense tracker, a grievance-intelligence platform, KoboToolbox field-data systems.
+AI tools, web apps, dashboards, data pipelines and field-data systems.
 
 </td>
 <td valign="top">
 
 ### 🔬 Research & engineering
-Difference-in-differences and quasi-experimental evaluation, MST radar signal research, gender and human-development policy briefs, and an e-bike built as a mechanical engineering project.
+Quasi-experimental evaluation, MST radar signals, gender policy briefs, and an e-bike from my engineering degree.
 
 </td>
 </tr>
 </table>
 
-## Selected work
-
-### 🚦 ADB AI for Safer Roads 2026: Speed Safety Score · **Top 10**
-Are posted speed limits right for the road, not just who breaks them? My team built a composite **Speed Safety Score** and a **Priority Index (Exposure × Likelihood × Severity)** to rank roads for intervention, grounded in the WHO Safe System approach and the Nilsson Power Model. → [ai-safer-roads](https://github.com/simeonpalla/ai-safer-roads)
-
-### 🎓 Pathway 2026 and scholarship modelling
-Operational data for a President's Office initiative to find and support meritorious students from marginalised communities, plus scholarship models stress-tested against prior-year enrolment. One scenario was adopted for the next year's budget.
-
-### 🏛️ Spandana grievance system
-Led monitoring and reporting for a state's public grievance redressal system, with KPIs and SOPs co-designed with senior officials and executive dashboards for bottleneck tracking.
-
-## 🛠️ Things I'm proud of
+## 🛠️ Selected work
 
 <table>
 <tr>
