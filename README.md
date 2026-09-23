@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/simeonpalla">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=0B7285&center=true&vCenter=true&width=700&lines=A+generalist+who+goes+where+the+problem+is;Policy+%C2%B7+Energy+%C2%B7+Education+%C2%B7+Road+safety+%C2%B7+Software;From+state+governments+to+power+utilities+to+apps;Mechanical+engineer+turned+data+and+product+builder" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=0B7285&center=true&vCenter=true&width=700&lines=A+generalist+who+goes+where+the+problem+is;Policy+%C2%B7+Energy+%C2%B7+Education+%C2%B7+Road+safety+%C2%B7+Software;From+state+governments+to+research+institutes+to+apps;Mechanical+engineer+turned+data+and+product+builder" alt="Typing intro">
   </a>
 </p>
 
@@ -20,11 +20,11 @@
 
 ## Hi, I'm Simeon 👋
 
-I'm a mechanical engineer who fell for data and never stopped following interesting problems. Over five years I've worked with **state governments, a power utility, a university, research institutes and political consultancies**. I've built analysis, models, dashboards, field-data systems and apps along the way.
+I'm a mechanical engineer who fell for data and never stopped following interesting problems. Over five years I've worked with **state governments, a university, research institutes and political consultancies**. I've built analysis, models, dashboards, field-data systems and apps along the way.
 
 The common thread isn't one sector or one tool. I like walking into a messy problem I don't yet understand, learning the domain quickly, finding out what the data can and can't say, and shipping something people actually use.
 
-**Right now:** Consultant, Power Sector Analytics at the [Centre for Policy Research](https://cprindia.org), embedded in a state power distribution utility.
+**Right now:** Consultant, Power Sector Analytics at the [Centre for Policy Research](https://cprindia.org).
 
 ## The range
 
@@ -39,7 +39,7 @@ Grievance redressal for a state government, district governance programmes in Me
 <td width="50%" valign="top">
 
 ### ⚡ Energy & infrastructure
-Reconstructing transformer-to-feeder networks, evaluating a street-lighting intervention and a feeder bifurcation programme under RDSS, finding phase imbalances and asset anomalies in distribution data.
+Analytics and evaluation work in the power sector, turning operational data into evidence for infrastructure decisions. *(Project details are confidential.)*
 
 </td>
 </tr>
@@ -78,9 +78,6 @@ Difference-in-differences and quasi-experimental evaluation, MST radar signal re
 ### 🚦 ADB AI for Safer Roads 2026: Speed Safety Score · **Top 10**
 Are posted speed limits right for the road, not just who breaks them? My team built a composite **Speed Safety Score** and a **Priority Index (Exposure × Likelihood × Severity)** to rank roads for intervention, grounded in the WHO Safe System approach and the Nilsson Power Model. → [ai-safer-roads](https://github.com/simeonpalla/ai-safer-roads)
 
-### ⚡ Feeder bifurcation evaluation (RDSS)
-Leading a quasi-experimental impact evaluation of a distribution-reform programme for a state utility, on top of a rebuilt asset baseline that links transformers to feeders using temporal event-matching. *(Ongoing)*
-
 ### 🎓 Pathway 2026 and scholarship modelling
 Operational data for a President's Office initiative to find and support meritorious students from marginalised communities, plus scholarship models stress-tested against prior-year enrolment. One scenario was adopted for the next year's budget.
 
@@ -100,7 +97,7 @@ Led monitoring and reporting for a state's public grievance redressal system, wi
 
 ## Where I've worked
 
-**CPR** (power utility analytics) → **GITAM University** (admissions and scholarship analytics) → **ISB / Government of Meghalaya** (governance data) → **Myriad Concepts** (SDG, tourism, investment) → **Government of Andhra Pradesh** (grievance redressal) → **Pradical Works** and **The Ballot House** (analytics products and electoral research)
+**CPR** (power-sector analytics) → **GITAM University** (admissions and scholarship analytics) → **ISB / Government of Meghalaya** (governance data) → **Myriad Concepts** (SDG, tourism, investment) → **Government of Andhra Pradesh** (grievance redressal) → **Pradical Works** and **The Ballot House** (analytics products and electoral research)
 
 ## Toolbox
 
@@ -142,13 +139,14 @@ Led monitoring and reporting for a state's public grievance redressal system, wi
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simeonpalla&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeonpalla&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img src="https://img.shields.io/github/followers/simeonpalla?style=for-the-badge&logo=github&color=0b7285" alt="Followers">
+  <img src="https://img.shields.io/badge/Public%20repos-19-1e3a8a?style=for-the-badge&logo=git&logoColor=white" alt="Public repos">
+  <img src="https://img.shields.io/github/last-commit/simeonpalla/portfolio?style=for-the-badge&label=Last%20push&color=0b7285" alt="Last commit">
 </p>
 
 ## Beyond work
 
-Aerodynamics, space science, mechanical engineering and Formula 1. I like understanding how things work, whether that's a car, a policy or a power grid.
+Aerodynamics, space science, mechanical engineering and Formula 1. I like understanding how things work, whether that's a car, a policy or a system of infrastructure.
 
 > *"Discipline is choosing between what you want now and what you want most."* — Abraham Lincoln
 
