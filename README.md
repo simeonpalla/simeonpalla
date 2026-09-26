@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:1e3a8a&height=190&section=header&text=Simeon%20Palla&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20Policy%20%C2%B7%20Energy%20%C2%B7%20Engineering%20%C2%B7%20Products&descSize=20&descAlignY=60" alt="Simeon Palla banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b7285,100:1e3a8a&height=190&section=header&text=Simeon%20Palla&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20Policy%20%C2%B7%20Technology&descSize=20&descAlignY=60" alt="Simeon Palla banner">
 </p>
 
 <p align="center">
   <a href="https://github.com/simeonpalla">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=0B7285&center=true&vCenter=true&width=700&lines=A+generalist+who+goes+where+the+problem+is;Policy+%C2%B7+Energy+%C2%B7+Education+%C2%B7+Road+safety+%C2%B7+Software;From+state+governments+to+research+institutes+to+apps;Mechanical+engineer+turned+data+and+product+builder" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=0B7285&center=true&vCenter=true&width=700&lines=I+turn+complex+problems+into+evidence%2C+tools+and+decisions;Public-sector+analytics+%C2%B7+Infrastructure+%C2%B7+Research+%C2%B7+Technology;Mechanical+engineer+by+training.+Data+person+by+practice." alt="Typing intro">
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 
 ## Hi, I'm Simeon 👋
 
-Mechanical engineer turned data and product builder. Five years across state governments, a university, research institutes and political consultancies.
+I work at the intersection of data, public policy, infrastructure and technology. Five years across state governments, a university, research institutes and political consultancies.
 
-I learn a domain, work out what the data can and can't say, and ship something people use.
+I take ambiguous real-world problems, structure the evidence, and build analytical tools to help make better decisions.
 
 **Now:** Consultant, Power Sector Analytics at the [Centre for Policy Research](https://cprindia.org).
 
@@ -109,6 +109,8 @@ Six studio personas debate a film and deliver a greenlight verdict with confiden
 Citizens send a photo, voice note or text. Gemini 3 classifies it, finds the department and estimates the fix.
 
 `Gemini 3` `TypeScript` `Streamlit`
+
+<sub>Independent prototype. Not an official Government of Andhra Pradesh system.</sub>
 
 </td>
 </tr>
